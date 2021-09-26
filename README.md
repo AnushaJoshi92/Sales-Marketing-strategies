@@ -1,4 +1,4 @@
-# Data-Science-for-Business
+# Data-Science-for-Sales & Marketing
 Data-Science-for-Business
 Overview of the Dataset:
 1. Pre-processing of data: Convert categorical data to numeric format and handling null values
